@@ -6,6 +6,11 @@ Miscellaneous Code Used in Columbus Arduino/Raspberry Pi Meetup
 
 Use however you like!
 
+##Useful Links
+http://www.adafruit.com
+http//banggood.com
+http://www.arduino.cc
+
 ## Contributing
 
 1. Fork it!
