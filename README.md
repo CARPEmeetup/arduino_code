@@ -7,20 +7,20 @@ Miscellaneous Code Used in Columbus Arduino/Raspberry Pi Meetup
 Use however you like!
 
 ##Tutorials and Documentation Links
-http://www.arduino.cc
-http://www.adafruit.com
+  * http://www.arduino.cc
+  * http://www.adafruit.com
 
 ##Buy more stuff!
-http://banggood.com
-http://www.sparkfun.com
-https://www.tiny-circuits.com
-http://digistump.com/
-http://www.digikey.com
-http://www.goldmine-elec-products.com
-http://www.seeedstudio.com
-https://www.mcmelectronics.com
-http://www.allelectronics.com
-http://www.mouser.com
+  *http://banggood.com
+  *http://www.sparkfun.com
+  *https://www.tiny-circuits.com
+  *http://digistump.com/
+  *http://www.digikey.com
+  *http://www.goldmine-elec-products.com
+  *http://www.seeedstudio.com
+  *https://www.mcmelectronics.com
+  *http://www.allelectronics.com
+   *http://www.mouser.com
 
 ## Contributing
 
@@ -31,7 +31,7 @@ http://www.mouser.com
 5. Submit a pull request :D
 
 ## History
-
+10/21/15- added useful links
 10/20/15- Made Repository at Last Minute and Great Expense
 
 ## Credits
