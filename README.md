@@ -11,16 +11,16 @@ Use however you like!
   * http://www.adafruit.com
 
 ##Buy more stuff!
-  *http://banggood.com
-  *http://www.sparkfun.com
-  *https://www.tiny-circuits.com
-  *http://digistump.com/
-  *http://www.digikey.com
-  *http://www.goldmine-elec-products.com
-  *http://www.seeedstudio.com
-  *https://www.mcmelectronics.com
-  *http://www.allelectronics.com
-   *http://www.mouser.com
+  * http://banggood.com
+  * http://www.sparkfun.com
+  * https://www.tiny-circuits.com
+  * http://digistump.com/
+  * http://www.digikey.com
+  * http://www.goldmine-elec-products.com
+  * http://www.seeedstudio.com
+  * https://www.mcmelectronics.com
+  * http://www.allelectronics.com
+  * http://www.mouser.com
 
 ## Contributing
 
