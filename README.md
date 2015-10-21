@@ -6,10 +6,21 @@ Miscellaneous Code Used in Columbus Arduino/Raspberry Pi Meetup
 
 Use however you like!
 
-##Useful Links
-http://www.adafruit.com
-http//banggood.com
+##Tutorials and Documentation Links
 http://www.arduino.cc
+http://www.adafruit.com
+
+##Buy more stuff!
+http://banggood.com
+http://www.sparkfun.com
+https://www.tiny-circuits.com
+http://digistump.com/
+http://www.digikey.com
+http://www.goldmine-elec-products.com
+http://www.seeedstudio.com
+https://www.mcmelectronics.com
+http://www.allelectronics.com
+http://www.mouser.com
 
 ## Contributing
 
