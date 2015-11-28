@@ -8,7 +8,7 @@ Use however you like!
 
 ##Tutorials and Documentation Links
   * http://www.arduino.cc
-  * http://www.adafruit.com
+  * https://learn.adafruit.com/
 
 ##Buy more stuff!
   * http://banggood.com
