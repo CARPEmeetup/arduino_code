@@ -34,8 +34,8 @@ Use however you like!
 
 ## History
 
-* 10/21/15- added useful links
-* 10/20/15- Made Repository at Last Minute and Great Expense
+* 10/21/15 - added useful links
+* 10/20/15 - Made Repository at Last Minute and Great Expense
 
 ## Credits
 
